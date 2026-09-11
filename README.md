@@ -1,22 +1,29 @@
-# Cover Studio · Fiorentina
+# Cover Studio Pro · Fiorentina
 
-Generatore offline di copertine 16:9 per analisi calcistiche.
+Editor offline per creare, modificare ed esportare copertine calcistiche 16:9.
 
 ## Uso immediato
 
-Apri `index.html` con Chrome, Edge, Safari o Firefox. Non sono richiesti installazione, server o connessione Internet.
+Apri `index.html` in un browser moderno. Font, reference e funzioni di esportazione sono incorporati: non servono installazione, server o connessione Internet.
 
-- Carica un logo principale e verrà aggiornato su tutte le copertine.
-- Carica uno sfondo e regolane zoom, posizione, luminosità e oscuramento.
-- Scarica una singola copertina in PNG oppure tutte insieme in un archivio ZIP.
-- Le immagini esportate sono sempre in formato 1920 × 1080 px.
+## Funzioni principali
+
+- 22 titoli predefiniti e copertine personalizzate senza limite.
+- Modifica, duplicazione, riordino, ricerca e selezione delle copertine.
+- Caricamento globale di logo, sfondo e stemma nell’angolo.
+- Trascinamento diretto di logo e sfondo nelle anteprime.
+- Controlli per testo, fascia, ombre, colori, posizione e luminosità.
+- Modalità reference bloccata e confronto visivo prima/dopo.
+- Esportazione PNG, JPG o WebP in Full HD, 2K o 4K.
+- Download singolo oppure ZIP delle copertine selezionate.
+- Salvataggio automatico, annulla/ripeti e gestione di più progetti.
+- Importazione ed esportazione dei progetti in formato `.coverstudio.json`.
 
 ## Pubblicazione su GitHub Pages
 
-1. Crea un nuovo repository GitHub.
-2. Carica nella cartella principale `index.html`, `README.md` e `.nojekyll`.
-3. Apri **Settings → Pages**.
-4. In **Build and deployment**, scegli **Deploy from a branch**.
-5. Seleziona il branch `main` e la cartella `/ (root)`, quindi salva.
+1. Carica `index.html`, `README.md` e `.nojekyll` nella cartella principale del repository.
+2. Apri **Settings → Pages**.
+3. Scegli **Deploy from a branch**, branch `main`, cartella `/ (root)`.
+4. Salva e attendi la pubblicazione.
 
-Il font CommutersSans Bold e la copertina di riferimento sono incorporati direttamente in `index.html`.
+Le immagini esportate non includono controlli, guide o bordi dell’interfaccia.
