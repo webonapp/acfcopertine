@@ -11,12 +11,14 @@ Apri `index.html` in un browser moderno. Font, reference e funzioni di esportazi
 - 22 titoli predefiniti e copertine personalizzate senza limite.
 - Modifica, duplicazione, riordino, ricerca e selezione delle copertine.
 - Caricamento globale di logo, sfondo e stemma nell’angolo.
+- Sfondo stadio e stemma ACF Fiorentina già incorporati come impostazioni predefinite.
 - Trascinamento diretto di logo e sfondo nelle anteprime.
 - Controlli per testo, fascia, ombre, colori, posizione e luminosità.
 - Modalità reference bloccata e confronto visivo prima/dopo.
 - Esportazione PNG, JPG o WebP in Full HD, 2K o 4K.
 - Download singolo oppure ZIP delle copertine selezionate.
 - Salvataggio automatico, annulla/ripeti e gestione di più progetti.
+- Ridenominazione dei progetti già salvati.
 - Importazione ed esportazione dei progetti in formato `.coverstudio.json`.
 
 ## Pubblicazione su GitHub Pages
